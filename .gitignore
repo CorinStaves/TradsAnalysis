@@ -1,1 +1,3 @@
-/out/artifacts/
+/out/
+/target/
+/.idea/
